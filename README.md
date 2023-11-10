@@ -1,1 +1,1 @@
-# mini-project
+# efrens-homework-project
