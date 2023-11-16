@@ -16,3 +16,6 @@ We were given starter code, a screenshot of the website and acceptance criteria 
 
 
 > **Horiseion Wesbite Link**: https://efren96.github.io/week-one-homework/
+
+### Screenshot
+<img src="./Assets/01-html-css-git-homework-demo.png">
